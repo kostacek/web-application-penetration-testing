@@ -235,7 +235,4 @@ Reinforces defensive security practices
 
 [Hacking the Website Report](docs/Web Application Penetration Testing_Vulnerability Analysis.docx)
 
-📄 License (MIT)
 
-MIT License
-Copyright (c) 2026
