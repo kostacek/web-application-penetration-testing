@@ -231,8 +231,8 @@ Reinforces defensive security practices
 ---
 <br>
 
-📄 Full Report
 
-[Hacking the Website Report](docs/Web Application Penetration Testing_Vulnerability Analysis.docx)
+## 📄 Full Penetration Testing Report
 
+[Download Full Report](docs/Web_App_PenTest_Consulting_Report.pdf)
 
